@@ -1,4 +1,3 @@
-# Sanskrit_Translation_bot
 # 🕉️ Sanskrit Translation Bot
 
 A Discord bot that translates **Sanskrit** text and images into **Urdu**, **English**, and **Hindi** — powered by [OpenRouter AI](https://openrouter.ai).
